@@ -1,0 +1,13 @@
+# Install the CUDA build of torch/torchvision first; see README.md.
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.57.0
+accelerate==1.13.0
+numpy==2.2.6
+pillow==12.1.1
+decord==0.6.0
+av==17.0.0
+opencv-python==4.13.0.92
+requests==2.32.5
+tqdm==4.67.3
+packaging==25.0
